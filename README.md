@@ -16,7 +16,9 @@ git clone https://github.com/your-username/british-time-spoken-form.git
 cd british-time-spoken-form
 
 Build the project
+
 mvn clean install
 
 Run tests
+
 mvn test
